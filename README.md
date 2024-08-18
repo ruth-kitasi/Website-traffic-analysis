@@ -1,4 +1,4 @@
-
+# Website traffic analysis
 ### Business Understanding
 The goal of this analysis is to evaluate the performance of the Kitaru website, focusing on visitor engagement, referral effectiveness, and geographical reach. Understanding these metrics is crucial for enhancing website content, optimizing marketing strategies, and improving user experience.
 
