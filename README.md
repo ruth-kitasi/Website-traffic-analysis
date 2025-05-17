@@ -15,7 +15,7 @@ Data preparation was conducted using Python, which involved:
 ### Modeling
 The visualizations in Power BI serve as descriptive models that provide insights into website performance. 
 
-![Kitaru-img](https://github.com/user-attachments/assets/86bd0373-be9b-48fa-992e-0a190896b32d)
+![Image](https://github.com/user-attachments/assets/37f6f08d-82e3-4a34-a175-93b5780cecc8)
 Key modeling techniques include:
 
 ### Trend Analysis: 
